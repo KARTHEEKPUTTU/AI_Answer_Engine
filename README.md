@@ -11,7 +11,7 @@ git clone  https://github.com/KARTHEEKPUTTU/AI_Answer_Engine.git
 Navigate to the project directory:
 
 ```bash
-cd ai-answer-engine
+cd {project directory name}
 ```
 
 Then, install the dependencies:
