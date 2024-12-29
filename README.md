@@ -5,7 +5,7 @@
 First, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/team-headstart/ai-answer-engine.git
+git clone  https://github.com/KARTHEEKPUTTU/AI_Answer_Engine.git
 ```
 
 Navigate to the project directory:
